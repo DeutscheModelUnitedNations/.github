@@ -5,22 +5,24 @@ Political action through political education - that is our goal at [Deutsche Mod
 Here, on our GitHub account, you can find open source software that we create to aid any part of the process of planning and carrying out our conferences. We also strive to make these tools and applications available for free for other model united nations conferences that are interested in modern solutions for their conference-management.
 
 ## MUNify
-
 MUNify is a collection/suite of tools and applications designed to organize and run a [model united nations](https://en.wikipedia.org/wiki/Model_United_Nations) conference. Currently, the following applications and tools are being developed:
 
 ### CHASE
-
 [MUNify CHASE](https://github.com/deutschemodelunitednations/munify-chase) (CHAiring SoftwarE) aims to simplify aspects like participant management, document organization, commitee sessions (including speakers lists, voting and attendance tracking) and communication at the actual conference.
 The software has already been deployed and used on two of our conferences. It is still in a pretty early development stage, where the software only has some key features that work reliably. The Tech-Stack features Bun, React with Next.js, Elysia, Prisma and a Postgres Database.
 
-### STOCK
+### DELEGATOR
+[MUNify DELEGATOR](https://github.com/deutschemodelunitednations/munify-delegator) (Registration and Delegation Management) is a Web-App that is designed to manage the registration and delegation process for a conference. Tech-Stack: Sevlte 5 with SvelteKit, Elysia, Prisma and a Postgres Database.
 
+### WEB
+[MUNify WEB](https://github.com/deutschemodelunitednations/munify-web) (Website) is a custom static website that is designed to hold all important information for the conference participants in a clear and user-friendly way. The website is designed to be easily customizable and can be used for any conference. The website is still in a very early planning stage.
+
+### STOCK
 [MUNify STOCK](https://github.com/deutschemodelunitednations/munify-stock) will be a custom tool that makes inventory management easier for the conferences. It will also feature a flag-inventory solution. The project is still in a very early planning stage.
 
 ---
 
 ## MUNity
-
 [MUNity](https://github.com/deutschemodelunitednations/munity) is a legacy Software that was succeeded by MUNify CHASE and aimed to fullfill basically the same requirements. Developent has been discontinued.
 
 ## Masterplan-Slack
