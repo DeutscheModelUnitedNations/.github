@@ -18,10 +18,10 @@ The software has already been deployed and used on two of our conferences. It is
 [MUNify STOCK](https://github.com/deutschemodelunitednations/munify-stock) will be a custom tool that makes inventory management easier for the conferences. It will also feature a flag-inventory solution. The project is still in a very early planning stage.
 
 ### WEB
-[MUNify WEB](https://github.com/deutschemodelunitednations/munify-web) is a custom static website that is designed to hold all important information for the conference participants in a clear and user-friendly way. The website is designed to be easily customizable via a headless CMS and can be used for any conference. The website is still in a very early planning stage.
+MUNify WEB is a custom static website that is designed to hold all important information for the conference participants in a clear and user-friendly way. The website is designed to be easily customizable via a headless CMS and can be used for any conference. The website is still in a very early planning stage.
 
 ### GUARD
-[MUNify GUARD](https://github.com/deutschemodelunitednations/munify-guard) is a centralized authentication and authorization service that is designed to be used by all MUNify applications.
+MUNify GUARD is a centralized authentication and authorization service that is designed to be used by all MUNify applications.
 
 ---
 
